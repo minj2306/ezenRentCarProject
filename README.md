@@ -15,6 +15,6 @@
 <li>최의선 캔바 , PPT - 마이메뉴 기능, 관리자(통계) 기능 구현</li>
 <li>박민재 작업기록(JIRA) - 리뷰게시판 기능 구현 , 관리자(쿠폰, 게시판) 관리 기능 구현</li>
 <h1>5. 사용 언어 및 툴</h1></br>
-
+<img src="https://github.com/minj2306/ezenRentCarProject/assets/135796939/b9abc4cf-a829-48d6-808f-2921af440686" >
 <h1>6. EER 다이어그램</h1></br>
 <img src="https://github.com/minj2306/ezenRentCarProject/assets/135796939/6fe0f1ec-d338-4950-b7c5-1ca24f2bb10b">
